@@ -44,3 +44,7 @@ firstSec.classList.add('wdi-remote-gizmo')
 sectionClasses.contains('wdi-remote-gizmo');
 
 sectionClasses.remove('wdi-remote-gizmo');
+
+newImg.style.height = '376px';
+newImg.style.width = '500px';
+newImg.style.margin = '20px 0px 0px 0px';
